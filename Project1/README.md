@@ -42,3 +42,5 @@
 [Ноутбук с выполненными заданиями и выводами](https://github.com/BogdanNV/Project01/blob/master/Project1/Project_01.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/BogdanNV/Project01/blob/master/Project1/README.md#Оглавление)
+
+[Гугл_диск](https://drive.google.com/drive/folders/1EJ9pX_huXUGRcLTB8GBmfDNFDzoaC8AL)

@@ -1,15 +1,15 @@
 # Project 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта]  
-[2. Какой кейс решаем?]
-[3. Результаты]   
+[1. Описание проекта](https://github.com/BogdanNV/Project01/blob/master/Project1/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/BogdanNV/Project01/blob/master/Project1/README.md#Какой-кейс-решаем)
+[3. Результаты](https://github.com/BogdanNV/Project01/blob/master/Project1/README.md#Результаты)   
 
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению]
+:arrow_up:[к оглавлению](https://github.com/BogdanNV/Project01/blob/master/Project1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -20,7 +20,7 @@
 
 **Условия соревнования:**  
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований].
+- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/BogdanNV/Project01/blob/master/Project1/README.md#Требования-к-оформлению-ноутбука).
 - Отправить свой код ментору для code-ревью. 
 
 **Требования к оформлению ноутбука**     
@@ -39,6 +39,6 @@
 работу с данными и оформление отчетов с помощью средств python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами]
+[Ноутбук с выполненными заданиями и выводами](https://github.com/BogdanNV/Project01/blob/master/Project1/Project_01.ipynb)
 
-:arrow_up:[к оглавлению]
+:arrow_up:[к оглавлению](https://github.com/BogdanNV/Project01/blob/master/Project1/README.md#Оглавление)
